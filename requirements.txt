@@ -1,0 +1,5 @@
+numpy==2.2.1
+pillow==11.1.0
+numpy==2.2.1
+pillow==11.1.0
+tk==0.1.0
